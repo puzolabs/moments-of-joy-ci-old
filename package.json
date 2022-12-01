@@ -1,0 +1,15 @@
+{
+  "name": "puzo-labs.moments-of-joy.ci",
+  "version": "1.0.0",
+  "description": "CI helper package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "meir",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^8.7.1",
+    "firebase-admin": "^9.11.0"
+  }
+}
